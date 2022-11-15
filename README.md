@@ -1,3 +1,3 @@
-# PasswordGen
-C# password generator 
+# Парсер для сбора информации ebay klaz
+C# ebay parser
 # Я не знаю кому это надо, но всё-же я это сделал...
